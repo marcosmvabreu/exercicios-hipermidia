@@ -1,7 +1,10 @@
 ### Exercícios Hipermída
 
 <ul>
-  <li> Repositório destinado para as atividades da disciplina Hipermídia. </li>
+  <li> Repositório destinado para as atividades da disciplina Hipermídia durante a graduação de Sistemas de Informação. </li>
 </ul>
 
-<img src="https://s.dicio.com.br/hipermidia.jpg" />
+<p align="center">
+    <img src="https://s.dicio.com.br/hipermidia.jpg" />
+</p>
+
